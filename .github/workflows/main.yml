@@ -1,0 +1,2 @@
+user_name = "信長"
+print(user_name)
